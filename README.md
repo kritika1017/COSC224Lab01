@@ -1,6 +1,5 @@
-Git and GitHub Lab: Collaborative Development
+Lab1: Github
 
-Tasks:
 In this lab, we created a Registration Form Webpage with five distinct branches:
 
 1. Registrationform
