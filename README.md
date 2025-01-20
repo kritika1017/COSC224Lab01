@@ -1,37 +1,25 @@
 Git and GitHub Lab: Collaborative Development
-This repository showcases our implementation of Git and GitHub practices for collaborative software development. The lab focuses on using Git to create and manage branches, pull requests, and collaborative workflows for implementing features in a small project. Below is a detailed description of our work:
 
-Task Overview
-For this lab, we decided to create a Registration Form Webpage with the following key components:
 
-A registration form with client-side validation
-CSS styles for the form and the overall webpage design
-JavaScript for form validation
-A basic webpage layout including header, footer, and other elements
-Repository Structure
-We organized our project using the following branches, each dedicated to a specific feature:
+Tasks:
 
-Branches and Their Features
-Registrationform
+For this lab, we decided to create a Registration Form Webpage with the following five branches:
 
-Includes form.html, which contains the HTML code for the registration form.
-This branch focused on creating the structure of the registration form.
-regFormcss
+1.Registrationform
+Includes form.html, which contains the HTML code for the registration form
 
+2.regFormcss
 Includes formstyle.css, which contains the CSS code for styling the registration form.
-This branch focused on enhancing the form's appearance.
-webpageStyle
 
+3.webpageStyle
 Includes webpageStyle.css, which provides the CSS for the basic design of the webpage (e.g., header, footer, sidebar).
-This branch focused on creating the overall layout and style for the webpage.
-Javascript
 
+4.Javascript
 Includes script.js, which contains JavaScript code for client-side validation of the registration form.
-This branch handled form validation logic.
-webpage
 
+5.webpage
 Includes webpage.html, which contains the main HTML structure of the webpage.
-This branch focused on creating the basic structure of the webpage.
+
 Development Workflow
 To ensure a smooth development process, we followed these steps:
 
